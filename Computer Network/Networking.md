@@ -1,0 +1,19 @@
+#### Types of Networks.
+
+![[Types of Network.png]]
+- Personal Area Network #PAN
+- Local Area Netwokr #LAN
+- Wireless Area Network #WLAN
+- Campus Area Network #CAN
+-  Metropolitan Area Network #MAN
+-  Wide Area Network #WAN 
+-  Storage-Area Network #SAN 
+-  System-Area Network (aka #SAN )
+-  Enterprise Private Network #EPN
+-  Passive Optical Local Area Network #POLAN
+- Virtual Network Network #VPN
+
+---------------------------------------------------------------------
+
+## Personal Area Network #PAN
+

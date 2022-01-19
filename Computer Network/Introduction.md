@@ -3,7 +3,7 @@
 ----------------------------------------------------
 
 ## COMPUTER NETWORKS
-
+--------------------------------------------------
 
 ![[Pasted image 20220119224703.png]]
 
@@ -21,11 +21,26 @@
 - PC is the most common example for internet node
 - [Modems](https://www.lifewire.com/what-is-a-modem-817861), switches, hubs, bridges, servers, and printers are also nodes, as are other devices that connect over [Wi-Fi](https://www.lifewire.com/what-is-wi-fi-2377430) or [Ethernet](https://www.lifewire.com/what-is-ethernet-3426740).
 - For example, a network connecting three computers and one printer, along with two more wireless devices, has six total nodes.
-
+--------------------------------------------------
 ######  What does a network do?
 - A network node sits at a point in the network where it sends, receives, stores or creates information.
 - it transmits data to communication with other nodes
 - Nodes connect over a link or communication channel. In a computer network these may be cable, fiber optic or wireless connections.
+--------------------------------------------------
+#### Types of Networks.
+
+![[Types of Network.png]]
+- Personal Area Network #PAN
+- Local Area Netwokr #LAN
+- Wireless Area Network #WLAN
+- Campus Area Network #CAN
+-  Metropolitan Area Network #MAN
+-  Wide Area Network #WAN 
+-  Storage-Area Network #SAN 
+-  System-Area Network (aka #SAN )
+-  Enterprise Private Network #EPN
+-  Passive Optical Local Area Network #POLAN
+- Virtual Network Network #VPN
 
 --------------------------------------------------
 #References 
