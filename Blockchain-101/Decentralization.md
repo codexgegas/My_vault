@@ -9,7 +9,7 @@ Political (de)centralization  — how many individuals or organizations ulti
 Logical (de)centralization — do the interface and data structures that the system presents and maintains look more like a single monolithic object, or an amorphous swarm? One simple heuristic is: if you cut the system in half, including both providers and users, will both halves continue to fully operate as independent units?
 
 -------------------------------------------------
-										Key Features 
+						Key Features 
 [Decentralization] (politically and architecturally) allows blockchains to be:
 
 -   Less likely to fail because they rely on many separate components.
