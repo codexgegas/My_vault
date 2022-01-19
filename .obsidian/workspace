@@ -7,12 +7,9 @@
         "id": "c906c594e8d3432e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Computer Network/Introduction.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+            "file": "Computer Network/Node.png"
           }
         }
       }
@@ -70,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Network/Introduction.md",
+                "file": "Computer Network/Node.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +87,15 @@
   },
   "active": "c906c594e8d3432e",
   "lastOpenFiles": [
+    "Computer Network/Node.png",
+    "Computer Network/Pasted image 20220119224703.png",
+    "Computer Network/Network.png",
     "Computer Network/Introduction.md",
     "Design & Analysis of Algorithms/Introduction.md",
     "My_vault/My vault/testing.md",
     "Blockchain-101/Bitcoin.md",
     "Blockchain-101/Blockchain.md",
     "Blockchain-101/Etherum.md",
-    "Blockchain-101/Decentralization.md",
-    "Blockchain-101/Tokenizations.md",
-    "Blockchain-101/Byzantalion Problem.png",
-    "Blockchain-101/Etherum.png"
+    "Blockchain-101/Decentralization.md"
   ]
 }

@@ -16,7 +16,7 @@
 
 #Nodes-
 
-![[Pasted image 20220119224729.png]]
+![[Node.png]]
 - A node is any physical device within a network of other tools that’s able to send, receive, or forward information.
 - PC is the most common example for internet node
 - [Modems](https://www.lifewire.com/what-is-a-modem-817861), switches, hubs, bridges, servers, and printers are also nodes, as are other devices that connect over [Wi-Fi](https://www.lifewire.com/what-is-wi-fi-2377430) or [Ethernet](https://www.lifewire.com/what-is-ethernet-3426740).
