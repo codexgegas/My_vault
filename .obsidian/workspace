@@ -80,7 +80,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Organization and Architecture/Structure of Computer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,9 +94,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "4f742109f2f5691d",
+  "active": "1ccb85bfd7036ad1",
   "lastOpenFiles": [
     "Computer Organization and Architecture/Structure of Computer.md",
     "Computer Organization and Architecture/Introduction.md",
