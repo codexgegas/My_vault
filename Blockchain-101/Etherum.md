@@ -6,8 +6,8 @@
 ----------------------------------------------------
 							--Smart Contracts--
 
-* [Ethereum](#Ethereum)runs on smart contracts.
-* smart contracts are a piece   of code that allows [Ethereum](#Ethereum)] blockchain to immediately transport or move data.
+* [Ethereum](#Ethereum) runs on smart contracts.
+* smart contracts are a piece   of code that allows [Ethereum](#Ethereum) blockchain to immediately transport or move data.
 * smart Contracts are set of instruction of and when data should move.
 * Once its kept in blockchain, they cannot alter it. it makes it censorship.
 ---------------------------------------------------

@@ -7,10 +7,10 @@
 - fast electronics calculating machine that accepts digital input and users machine power to provide output.
 	- Example- adding/ ALU operations.
 
-		 ****Input is data
+	>	 ****Input is data
 		 output is information****
 		 
-*data is collection of facts & processed data is information*.
+ > *data is collection of facts & processed data is information*.
 
 ----------------------------------------------------------
 
