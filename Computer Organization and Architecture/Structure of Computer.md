@@ -34,7 +34,7 @@
 #Processors 
 	- ALU(perfoms operations).
 			- Operands are brought to perform operations
-	- Controll unit (cordiantes with others).
+	- Controll unit (coordiantes with Components).
 #I/O
 	- Input(data).
 			- keyboard
