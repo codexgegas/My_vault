@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Network/NETWORKING TERMINOLOGY.md",
+            "file": "Computer Organization and Architecture/Structure of Computer.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 301
   },
   "right": {
     "id": "a24305bb3cb1be46",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Network/NETWORKING TERMINOLOGY.md",
+                "file": "Computer Organization and Architecture/Structure of Computer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "4f742109f2f5691d",
   "lastOpenFiles": [
+    "Computer Organization and Architecture/Structure of Computer.md",
+    "Computer Organization and Architecture/Introduction.md",
+    "Computer Network/Introduction.md",
+    "Blockchain-101/Blockchain.md",
     "Computer Network/NETWORKING TERMINOLOGY.md",
     "Computer Network/Networking.md",
-    "Computer Network/Introduction.md",
     "Pasted image 20220119224703.png.md",
     "Computer Network/Types of Network.png",
     "Computer Network/Network.png",
-    "Computer Network/Node.png",
-    "Computer Network/Pasted image 20220119224703.png",
-    "Design & Analysis of Algorithms/Introduction.md",
-    "My_vault/My vault/testing.md"
+    "Computer Network/Node.png"
   ]
 }
