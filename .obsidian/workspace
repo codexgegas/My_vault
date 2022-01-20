@@ -7,9 +7,17 @@
         "id": "4f742109f2f5691d",
         "type": "leaf",
         "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "514e6947e9d80304",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Organization and Architecture/Structure of Computer.md",
+            "file": "Blockchain-101/Blockchain.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Organization and Architecture/Structure of Computer.md",
+                "file": "Blockchain-101/Blockchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4f742109f2f5691d",
+  "active": "514e6947e9d80304",
   "lastOpenFiles": [
+    "Blockchain-101/Blockchain.md",
+    "Untitled.md",
     "Computer Organization and Architecture/Structure of Computer.md",
     "Computer Organization and Architecture/Introduction.md",
-    "Computer Network/Introduction.md",
-    "Blockchain-101/Blockchain.md",
     "Computer Network/NETWORKING TERMINOLOGY.md",
-    "Computer Network/Networking.md",
-    "Pasted image 20220119224703.png.md",
-    "Computer Network/Types of Network.png",
-    "Computer Network/Network.png",
-    "Computer Network/Node.png"
+    "Blockchain-101/Etherum.md",
+    "Blockchain-101/Tokenizations.md",
+    "Blockchain-101/Bitcoin.md",
+    "Design & Analysis of Algorithms/Introduction.md",
+    "Computer Network/Networking.md"
   ]
 }

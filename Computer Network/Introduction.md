@@ -32,7 +32,7 @@
 
 ![[Types of Network.png]]
 - Personal Area Network #PAN
-- Local Area Netwokr #LAN
+- Local Area Network #LAN
 - Wireless Area Network #WLAN
 - Campus Area Network #CAN
 -  Metropolitan Area Network #MAN

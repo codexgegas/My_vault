@@ -2,7 +2,7 @@
 
 blockchain was first fully actualized in Satoshi Nakamoto's [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf), the underlying component technologies draw from years of research across cryptography, computing, and economics.
 
- #[Blockchain] is a solution to a problem.
+ #[bitcoin](#blockchain) is a solution to a problem.
 	-Network
 	-Database
 	-Computer
@@ -17,23 +17,23 @@ blockchain was first fully actualized in Satoshi Nakamoto's [Bitcoin Whitepaper]
 
 ------------------------------------------------
 
-##  Slient Featues 
+##  Salient Features 
 * Open System
 * Trustless
 * Represents value
-* Transprent 
-* Decentralised
+* Transparency 
+* decentralize
 
 -------------------------------------------------
  ## Use Cases
- * Money distrubution (no middle man) 
+ * Money distribution (no middle man) 
  * Crowdfunding (No fees)
- * Public records (Mutli Records immutable )
+ * Public records (Multi Records immutable )
  * Supply Chain()
  * Many More!
  
  --------------------------------------------------------------
-						---- Public Network -----
+							---- Public Network -----
 	anyone can connect with internet
 	user has access to everything on internet
 
@@ -50,18 +50,18 @@ blockchain was first fully actualized in Satoshi Nakamoto's [Bitcoin Whitepaper]
 
 ![[Etherum.png]]
 
-* lets take Etherum chain
+* lets take Ethereum chain
 * Every BlockChain contains A networks of Computer(EVM) called as nodes.
-* this nodes talk to each other constantly and keeps updated with db from pulic ledger.
+* this nodes talk to each other constantly and keeps updated with db from public ledger.
 * as a user u need an address(username, public key, private key), and connect to one of the nodes using some software
-* this netwrok also store a local db and updated Online public data.
+* this network also store a local db and updated Online public data.
 
 --------------------------------------------------------------
 
 ## Problems With BlockChain.
-Reaching Consesus
-	 eg -- i have 10 btc and computer tells i have 5 btc. Who is corect here?
-	  --sharing data securley
+Reaching Consensus
+	 eg -- i have 10 BTC and computer tells i have 5 BTC. Who is correct here?
+	  --sharing data securely 
 	  preventing Discrepancies
 
 		The Byzantine General Problem
@@ -69,11 +69,11 @@ Reaching Consesus
 ![[Byzantalion Problem.png]]
 - https://www.youtube.com/watch?v=VWG9xcwjxUg(The Byzantine General Problem)
 * Solution-
-		* Proof Of Work (Bitcoin, Etherum)
+		* Proof Of Work (Bitcoin, Ethereum)
 		*  Proof Of Stake
 		* delegated Proof of stake
 	
 --------------------------------------------------------------
 
- Examples of Blockchian- [bitcoin],[Etherum],etc
+ Examples of Blockchian- [bitcoin](#blockchain),[Ethereum](#Ethereum),etc
  

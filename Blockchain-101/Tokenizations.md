@@ -1,4 +1,4 @@
-Etherum promises something more than just few thousand applications,this blockchain provides sets of interctions to create digital assets of everything from Physical assets to ideas.
+[Ethereum](#Ethereum) promises something more than just few thousand applications, this blockchain provides sets of interconnections to create digital assets of everything from Physical assets to ideas.
 This is called [Tokenization]. 
 
 --------------------------------------------------

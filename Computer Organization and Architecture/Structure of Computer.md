@@ -4,8 +4,8 @@
 ----------------------------------------------------------
 
 #Digital-Computer 
-- fast eletronic calculating machine that accepts digitial input and usues machine power to provide output.
-	- Example- adding/ ALU opprations.
+- fast electronics calculating machine that accepts digital input and users machine power to provide output.
+	- Example- adding/ ALU operations.
 
 		 ****Input is data
 		 output is information****
@@ -20,26 +20,26 @@
 -  Notebooks
 	- Laptops
 - Workstations
-	- Graphicaly intensive task
-	- used for highend purpose 
+	- Graphically intensive task
+	- used for high end purpose 
 		- ex animation, Engineering Applications
 - Enterprise Systems
 	-  servers/ mainframes 
-- SuperComputers
+- Super Computers
 	-  Weather forecasting
-	- Simuations
+	- Simulations
 ---------------------------------------------------------
 ## Functional Units 
 
 #Processors 
-	- ALU(perfoms operations).
+	- ALU(performs operations).
 			- Operands are brought to perform operations
-	- Controll unit (coordiantes with Components).
+	- Control unit (co-ordinates with Components).
 #I/O
 	- Input(data).
 			- keyboard
 			- mouse
-			- webacm
+			- webcam
 	- output(info).
 			- screen
 			- monitor
@@ -48,7 +48,7 @@
 	- stores information.
 	- Primary memory(fast and volatile).
 	- Secondary memory slow and no volatile.
-	- #ram Memory accesse time is less (ns).
+	- #ram Memory access time is less (ns).
 	- #Memory-access-time time taken to get one word(16bit/32bit).
 #Program
 - lists of instructions that performs a task and stored in memory.

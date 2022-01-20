@@ -47,7 +47,7 @@
  - It is a digital file that normally contains audio or video record and is available on the Internet as well.
 
 ###  #Social-networking-websites
- - It refers to the websites that facilitate users with a common platform where they can share their message (in text, audio, or even video form), images, videos, etc. For example, Facebook, Google+, Twitter, LinkedIn, MySpace, etc.
+ - It refers to the websites that facilitate users with a common platform where they can share their message (in text, audio, or even video form), images, videos, etc. For example, Facebook, Google+, Twitter, LinkedIn, My Space, etc.
 
 
 
