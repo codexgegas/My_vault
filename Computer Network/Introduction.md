@@ -7,16 +7,17 @@
 
 ![[Pasted image 20220119224703.png]]
 
- #NETWORK- 
+ #NETWORK
  - a group or system of interconnected people or things.
 
-#Computer-Networks-
+#Computer-Networks
 -  A group or system of interconnected computers
 - **Example** servers, computers, iot devices etc.
 
-#Nodes-
+#Nodes
 
 ![[Node.png]]
+- Computing Devices connect to network.
 - A node is any physical device within a network of other tools that’s able to send, receive, or forward information.
 - PC is the most common example for internet node
 - [Modems](https://www.lifewire.com/what-is-a-modem-817861), switches, hubs, bridges, servers, and printers are also nodes, as are other devices that connect over [Wi-Fi](https://www.lifewire.com/what-is-wi-fi-2377430) or [Ethernet](https://www.lifewire.com/what-is-ethernet-3426740).
