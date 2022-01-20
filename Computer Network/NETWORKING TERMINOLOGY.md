@@ -2,7 +2,7 @@
 - A client is a **piece of computer hardware or software that accesses a service made available by a server**
 
 ### #Server
--  a server is **a piece of computer hardware or software (computer program) that provides functionality for other programs or devices,** called "clients" 
+-  a server is **a piece of computer hardware or software (computer program) that provides functionality for other programs or devices,** called "*clients*" 
 
 ### #Nodes
 - Computing Devices connect to network.
