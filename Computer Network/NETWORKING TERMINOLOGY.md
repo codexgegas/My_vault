@@ -10,6 +10,17 @@
 ### #Route
 - A router receives and sends data on computer networks.
 
+### #Network-Gateway
+-  physical device which acts like an Access point for the network.
+
+### #Physical-address
+- To identify the device address within the network. 
+- design for #LAN
+
+### #Logical_Address 
+-  To identify the device address in multiple address.
+- design for #WLAN
+
 ### #Switch
 - Switches are networking devices operating at layer 2 or a data link layer of the OSI model. They connect devices in a network and use packet switching to send, receive or forward data packets or data frames over the network.
 
@@ -24,6 +35,24 @@
 
 ###  #Internet
 - It is a computer network system that connects the computers of the world. It is normally connecting through WAN and LAN.
+
+###  #Ethernet
+- physical wire helps to connect to network
+
+###  #RJ-45
+- Registered jack -45 
+
+### #Access_Point
+- Wireless node helps to connect to LAN
+
+### #IPv4
+ - fourth Version of IP 
+ - size - 32 bytes
+
+ ### #IPv6
+ - 6th version of IP
+ - size -64 bytes
+
 
 ###  #Extranet
 - It is also a sort of Internet the access to which is granted only to a few.

@@ -1,13 +1,13 @@
 ----------------------------------------------------------
 
-									##Chapter-1
+						##Chapter-1
 ----------------------------------------------------------
 
 #Digital-Computer 
 - fast electronics calculating machine that accepts digital input and users machine power to provide output.
 	- Example- adding/ ALU operations.
 
-	>	 ****Input is data
+		 ****Input is data
 		 output is information****
 		 
  > *data is collection of facts & processed data is information*.
@@ -28,6 +28,7 @@
 - Super Computers
 	-  Weather forecasting
 	- Simulations
+	
 ---------------------------------------------------------
 ## Functional Units 
 

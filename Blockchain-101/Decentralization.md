@@ -9,7 +9,8 @@ Political (de)centralization  — how many individuals or organizations ulti
 Logical (de)centralization — do the interface and data structures that the system presents and maintains look more like a single monolithic object, or an amorphous swarm? One simple heuristic is: if you cut the system in half, including both providers and users, will both halves continue to fully operate as independent units?
 
 -------------------------------------------------
-						Key Features 
+						
+					          	Key Features 
 [Decentralization] (politically and architecturally) allows blockchains to be:
 
 -   Less likely to fail because they rely on many separate components.
@@ -20,7 +21,10 @@ Logical (de)centralization — do the interface and data structures that the sys
 - If one node stops working, or even 100 nodes, the blockchain survives assuming there is at least one node up and running. This makes the blockchain very resistant to attacks.
 - the [blockchain] does not stop working even if the country's internet stopped working.
 
+---
+
 						---Suplimentry reading---
 
 Jesse Grushack, the founder of [Ujo](https://ujomusic.com/), lays out the problem of users becoming the product for digital advertisers in Web 2.0 and how the Ethereum blockchain can allow individuals to be better compensated for their serv, in this article on ConsenSys media, [Welcome to 3.0](https://medium.com/@ConsenSys/welcome-to-3-0-f4552fb02302). 
 
+---
