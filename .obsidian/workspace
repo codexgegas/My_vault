@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4f742109f2f5691d",
+        "id": "53e9168fea08be51",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Network/NETWORKING TERMINOLOGY.md",
+            "file": "Blockchain-101/Anatomy of a Block/Blocks.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Network/NETWORKING TERMINOLOGY.md",
+                "file": "Blockchain-101/Anatomy of a Block/Blocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4f742109f2f5691d",
+  "active": "53e9168fea08be51",
   "lastOpenFiles": [
-    "Computer Network/NETWORKING TERMINOLOGY.md",
-    "Computer Organization and Architecture/Basic Operations Concepts.md",
-    "Computer Organization and Architecture/Structure of Computer.md",
-    "Computer Network/Networking.md",
-    "Design & Analysis of Algorithms/Pasted image 20220121120057.png",
-    "Design & Analysis of Algorithms/Pasted image 20220121115736.png",
-    "Computer Organization and Architecture/Introduction.md",
-    "Design & Analysis of Algorithms/Introduction.md",
-    "quick notes.md",
-    "Blockchain-101/Blockchain.md"
+    "Blockchain-101/Anatomy of a Block/Blocks.md",
+    "Blockchain-101/Anatomy of a Block/Assets/Block.png",
+    "WET Project.md",
+    "Blockchain-101/Cryptography/Digital Sigining.md",
+    "Blockchain-101/Cryptography/Cryptography.md",
+    "Blockchain-101/Cryptography/Assets/Digital Signature_2.png",
+    "Blockchain-101/Cryptography/Assets/Digital Signature.png",
+    "Blockchain-101/Bitcoin.md",
+    "Blockchain-101/Cryptography/Assets/Cryptography1.png",
+    "Blockchain-101/Tokenizations.md"
   ]
 }
