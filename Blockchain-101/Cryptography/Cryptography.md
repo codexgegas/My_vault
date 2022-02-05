@@ -28,7 +28,8 @@ Private key
 - output changes dramatically with even small input.
 - Function is fast and with Low computational overhead.
 
-*Hash Algo used in bitcoin is SHA-256 where as Ethereum uses its own Hashing algo called [Ethash].([Ethash · ethereum/wiki Wiki (github.com)](https://github.com/ethereum/wiki/wiki/Ethash)).*
+*Hash Algo used in bitcoin is SHA-256 where as Ethereum uses its own Hashing algo called [Ethash]([Ethash · ethereum/wiki Wiki (github.com)](https://github.com/ethereum/wiki/wiki/Ethash))*
+
 
 
 

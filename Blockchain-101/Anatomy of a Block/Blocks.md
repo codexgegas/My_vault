@@ -22,6 +22,10 @@ A block stores information. There are many pieces of information included within
 -   **Block header**: Contains information about the block.
 -   **Transaction counter**: A number that represents how many transactions are stored in the block.
 -   **Transactions**: A list of all of the transactions within a block.
+
+--- 
+### Structure of  a Block
+
 ---
 
 #Reference 

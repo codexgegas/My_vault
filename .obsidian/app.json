@@ -3,7 +3,7 @@
   "livePreview": true,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "byCreatedTimeReverse",
+  "fileSortOrder": "alphabetical",
   "spellcheck": true,
   "pdfExportSettings": {
     "pageSize": "A4",

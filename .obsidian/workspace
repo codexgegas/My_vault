@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blockchain-101/Anatomy of a Block/Blocks.md",
+            "file": "CryptoCurrency.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301
+    "width": 301,
+    "collapsed": true
   },
   "right": {
     "id": "a24305bb3cb1be46",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blockchain-101/Anatomy of a Block/Blocks.md",
+                "file": "CryptoCurrency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +91,15 @@
   },
   "active": "53e9168fea08be51",
   "lastOpenFiles": [
+    "CryptoCurrency.md",
     "Blockchain-101/Anatomy of a Block/Blocks.md",
+    "Blockchain-101/Cryptography/Cryptography.md",
     "Blockchain-101/Anatomy of a Block/Assets/Block.png",
     "WET Project.md",
     "Blockchain-101/Cryptography/Digital Sigining.md",
-    "Blockchain-101/Cryptography/Cryptography.md",
     "Blockchain-101/Cryptography/Assets/Digital Signature_2.png",
     "Blockchain-101/Cryptography/Assets/Digital Signature.png",
     "Blockchain-101/Bitcoin.md",
-    "Blockchain-101/Cryptography/Assets/Cryptography1.png",
-    "Blockchain-101/Tokenizations.md"
+    "Blockchain-101/Cryptography/Assets/Cryptography1.png"
   ]
 }
