@@ -9,10 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SC-900/Common threats.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+            "file": "Cloud Adoption Framework.md",
+            "mode": "source"
           }
         }
       }
@@ -70,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC-900/Common threats.md",
+                "file": "Cloud Adoption Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +88,15 @@
   },
   "active": "273697c7d647ed7e",
   "lastOpenFiles": [
-    "SC-900/Common threats.md",
-    "Encryption.md",
-    "SC-900/CIA triad.md",
+    "Cloud Adoption Framework.md",
+    "SC-900/Encryption.md",
     "SC-900/Defence in Depth.md",
-    "SC-900/shared responsibility model.md",
+    "SC-900/Common threats.md",
+    "SC-900/CIA triad.md",
     "SC-900/zero-trust methodologyContinue.md",
-    "SC-900/Introduction.md",
-    "Blockchain-101/Anatomy of a Block/Assets/Pasted image 20220205004826.png",
-    "Blockchain-101/Anatomy of a Block/Assets/Block.png",
-    "SC-900/Assets/Defence in depth.png"
+    "Design & Analysis of Algorithms/Pasted image 20220121115736.png",
+    "Design & Analysis of Algorithms/Pasted image 20220121112030.png",
+    "Design & Analysis of Algorithms/Pasted image 20220121111757.png",
+    "Design & Analysis of Algorithms/Pasted image 20220121111732.png"
   ]
 }
