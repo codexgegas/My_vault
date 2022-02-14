@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "53e9168fea08be51",
+        "id": "273697c7d647ed7e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CryptoCurrency.md",
+            "file": "SC-900/Common threats.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301,
-    "collapsed": true
+    "width": 301
   },
   "right": {
     "id": "a24305bb3cb1be46",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CryptoCurrency.md",
+                "file": "SC-900/Common threats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,17 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "53e9168fea08be51",
+  "active": "273697c7d647ed7e",
   "lastOpenFiles": [
-    "CryptoCurrency.md",
-    "Blockchain-101/Anatomy of a Block/Blocks.md",
-    "Blockchain-101/Cryptography/Cryptography.md",
+    "SC-900/Common threats.md",
+    "Encryption.md",
+    "SC-900/CIA triad.md",
+    "SC-900/Defence in Depth.md",
+    "SC-900/shared responsibility model.md",
+    "SC-900/zero-trust methodologyContinue.md",
+    "SC-900/Introduction.md",
+    "Blockchain-101/Anatomy of a Block/Assets/Pasted image 20220205004826.png",
     "Blockchain-101/Anatomy of a Block/Assets/Block.png",
-    "WET Project.md",
-    "Blockchain-101/Cryptography/Digital Sigining.md",
-    "Blockchain-101/Cryptography/Assets/Digital Signature_2.png",
-    "Blockchain-101/Cryptography/Assets/Digital Signature.png",
-    "Blockchain-101/Bitcoin.md",
-    "Blockchain-101/Cryptography/Assets/Cryptography1.png"
+    "SC-900/Assets/Defence in depth.png"
   ]
 }
