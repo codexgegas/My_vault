@@ -2,8 +2,8 @@
 
 ### ***Used to verify Owner Ship***
 ---
----
----
+
+
 A digital signature is basically the mathematical mechanism for essentially combining a public sequence of numbers with a given digital message.
 - Its used For Authentication, to determine the owner.
 

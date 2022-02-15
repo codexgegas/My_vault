@@ -1,3 +1,14 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "strictLineBreaks": true,
+  "foldHeading": true,
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "byModifiedTimeReverse",
+  "spellcheck": true,
+  "lineWrap": true,
+  "rightToLeft": false,
+  "readableLineLength": true,
+  "foldIndent": false,
+  "showLineNumber": false,
+  "legacyEditor": false
 }

@@ -11,7 +11,7 @@
 - A block is thus a permanent store of records that, once written, cannot be altered or removed.
 
 ---
-![[Pasted image 20220205004826.png]] 
+![[Blockchain-101/Assets/Pasted image 20220205004826.png]] 
 
 ---
 

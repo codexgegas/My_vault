@@ -23,6 +23,7 @@ blockchain was first fully actualized in Satoshi Nakamoto's [Bitcoin Whitepaper]
 * Represents value
 * Transparency 
 * decentralize
+* due to useage of [[Cryptography]]] blockchains are very secured systems.
 
 -------------------------------------------------
  ## Use Cases
@@ -33,20 +34,20 @@ blockchain was first fully actualized in Satoshi Nakamoto's [Bitcoin Whitepaper]
  * Many More!
  
  --------------------------------------------------------------
-							---- Public Network -----
+			---- Public Network -----
 	anyone can connect with internet
 	user has access to everything on internet
 
-					---sahred database-----
+			---sahred database-----
 		any user has accesss to this database which is immutable. makes it trustless system
 
-							------World Computer-------
+			------World Computer-------
 	* peer to peer nodes which is a computer		
 	* helps to run programs like Smart Contracts
 
 --------------------------------------------------------------
 
-## How #BlockChains Works?
+## How BlockChains Works?
 
 ![[Etherum.png]]
 
@@ -55,6 +56,7 @@ blockchain was first fully actualized in Satoshi Nakamoto's [Bitcoin Whitepaper]
 * this nodes talk to each other constantly and keeps updated with db from public ledger.
 * as a user u need an address(username, public key, private key), and connect to one of the nodes using some software
 * this network also store a local db and updated Online public data.
+
 
 --------------------------------------------------------------
 
