@@ -35,7 +35,7 @@ Private key
 
 ---
 #Reference
- [use of public and private key in blockchain].([Why Do I Need a Public and Private Key on the Blockchain? | by WeTrustLeonD | WeTrust Blog](https://blog.wetrust.io/why-do-i-need-a-public-and-private-key-on-the-blockchain-c2ea74a69e76)).
+ [use of public and private key in blockchain]([Why Do I Need a Public and Private Key on the Blockchain? | by WeTrustLeonD | WeTrust Blog](https://blog.wetrust.io/why-do-i-need-a-public-and-private-key-on-the-blockchain-c2ea74a69e76)).
  
 
  
