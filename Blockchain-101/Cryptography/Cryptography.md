@@ -15,7 +15,7 @@ Private key
 ****this system helps to make blockchain secure and helps Exchange of tokens take place***
 
 ---
-![[Cryptography1.png]]
+![[Cryptography1 1.png]]
 
 ---
 # Cryptographic Hash Functions

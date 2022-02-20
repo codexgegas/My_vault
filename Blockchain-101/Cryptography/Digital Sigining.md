@@ -7,9 +7,9 @@
 A digital signature is basically the mathematical mechanism for essentially combining a public sequence of numbers with a given digital message.
 - Its used For Authentication, to determine the owner.
 
-![[Digital Signature.png]]
+![[Digital Signature 1.png]]
 
-![[Digital Signature_2.png]]
+![[Digital Signature_2 1.png]]
 
 Example-
 		When A sends a message to B, B needs to check the authenticity of the message and confirm it comes from A and not C. So B can ask A to sign the message electronically. The electronic signature proves the identity of A is also called a digital signature.

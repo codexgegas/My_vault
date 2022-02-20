@@ -49,7 +49,7 @@ blockchain was first fully actualized in Satoshi Nakamoto's [Bitcoin Whitepaper]
 
 ## How BlockChains Works?
 
-![[Etherum.png]]
+![[Etherum 1.png]]
 
 * lets take Ethereum chain
 * Every BlockChain contains A networks of Computer(EVM) called as nodes.
@@ -68,7 +68,7 @@ Reaching Consensus
 
 		The Byzantine General Problem
 	 
-![[Byzantalion Problem.png]]
+![[Byzantalion Problem 1.png]]
 - https://www.youtube.com/watch?v=VWG9xcwjxUg(The Byzantine General Problem)
 * Solution-
 		* Proof Of Work (Bitcoin, Ethereum)
