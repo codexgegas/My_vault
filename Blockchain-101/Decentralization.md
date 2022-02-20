@@ -11,7 +11,7 @@ Logical (de)centralization — do the interface and data structures that the sys
 -------------------------------------------------
 						
 					          	Key Features 
-[Decentralization] (politically and architecturally) allows blockchains to be:
+[Decentralization](politically and architecturally) allows blockchains to be:
 
 -   Less likely to fail because they rely on many separate components.
     
