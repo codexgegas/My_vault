@@ -25,7 +25,7 @@
 ---
 
  # ==***Perhaps the most most important principle for the good algorithm designer is to refuse to content***==
-		 - Alfred V. Aho
+  - Alfred V. Aho
 	 
 *****In simple terms its about can we do it better!!!*
 
@@ -33,14 +33,33 @@ Example of Algo
 
 A Python Program to add 3 numbers
 
-> if __name= ="main":
-> num1=num2=num3=0
-> sum=0
-> num1=int(input("1st number"))
->  num2=int(input("2nd number"))
->   num1=int(input("3rd number"))
->   sum=num1+num2+num3
->   print("\nSum of the 3 numbers is:",sum)
+# Python3 program to add three numbers
+# with the help of above designed
+# algorithm
+
+
+	if __name__ == "__main__":
+
+	
+	num1 = num2 = num3 = 0
+
+	# Variable to store the resultant sum
+	sum = 0
+
+	# Take the 3 numbers as input
+	num1 = int(input("Enter the 1st number: "))
+
+	num2 = int(input("Enter the 2nd number: "))
+
+	num3 = int(input("Enter the 3rd number: "))
+
+	# Calculate the sum using + operator
+	# and store it in variable sum
+	sum = num1 + num2 + num3
+
+	# Print the sum
+	print("\nSum of the 3 numbers is:", sum)
+
 
 
 
@@ -70,7 +89,7 @@ One naive way of doing this is – implement both the algorithms and run the two
 2) It might also be possible that for some inputs, first algorithm perform better on one machine and the second works better on other machine for some other inputs.
 
 
-   > Algo find-max(A, n)
+ 					  > Algo find-max(A, n)
 					   >  A- Array  A={4,4,5,2,5,2,5,6,7,} n=10
  					   >  n-size
 					   >  R_t= f(n)
@@ -95,29 +114,29 @@ One naive way of doing this is – implement both the algorithms and run the two
 ---
 ### ==Experimental Studies==
  
-**Code**
- > // Online C compiler to run C program online
-#include <stdio.h>
-#include <time.h>
-// for clock_t, clock( ), CLOCKS_PER_SEC
-#include <unistd.h>
-int main( ) {
-int i=0, sum=0;
-double time_spent = 0.0;
-clock_t begin = clock();
-printf("Hello world");
-for (i=0; i<100; i++)
-sum=sum+i;
-printf("The value of sum = %d", sum);
-clock_t end = clock();
-time_spent += (double)(end - begin) /CLOCKS_PER_SEC;
-    printf("\nThe elapsed time is %f seconds",  time_spent);
-    return 0;
-}
+		**Code**
+		 // Online C compiler to run C program online
+		#include <stdio.h>
+		#include <time.h>
+		// for clock_t, clock( ), CLOCKS_PER_SEC
+		#include <unistd.h>
+		int main( ) {
+		int i=0, sum=0;
+		double time_spent = 0.0;
+		clock_t begin = clock();
+		printf("Hello world");
+		for (i=0; i<100; i++)
+		sum=sum+i;
+		printf("The value of sum = %d", sum);
+		clock_t end = clock();
+		time_spent += (double)(end - begin) /CLOCKS_PER_SEC;
+		    printf("\nThe elapsed time is %f seconds",  time_spent);
+		    return 0;
+		}
 
-**Output**
-> Hello world The value of sum = 4950
-The elapsed time is 0.000070 seconds
+		**Output**
+		> Hello world The value of sum = 4950
+		The elapsed time is 0.000070 seconds
 
 ==Limitations OF Experiments==
  - Its necessary to implement the algo which is usually difficult
