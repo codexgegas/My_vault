@@ -25,7 +25,7 @@
 ---
 
  # ==***Perhaps the most most important principle for the good algorithm designer is to refuse to content***==
-		 - Alfred V. Aho
+  - Alfred V. Aho
 	 
 *****In simple terms its about can we do it better!!!*
 
@@ -89,7 +89,7 @@ One naive way of doing this is – implement both the algorithms and run the two
 2) It might also be possible that for some inputs, first algorithm perform better on one machine and the second works better on other machine for some other inputs.
 
 
-   > Algo find-max(A, n)
+ 					  > Algo find-max(A, n)
 					   >  A- Array  A={4,4,5,2,5,2,5,6,7,} n=10
  					   >  n-size
 					   >  R_t= f(n)
@@ -114,8 +114,8 @@ One naive way of doing this is – implement both the algorithms and run the two
 ---
 ### ==Experimental Studies==
  
-**Code**
-		> // Online C compiler to run C program online
+		**Code**
+		 // Online C compiler to run C program online
 		#include <stdio.h>
 		#include <time.h>
 		// for clock_t, clock( ), CLOCKS_PER_SEC
