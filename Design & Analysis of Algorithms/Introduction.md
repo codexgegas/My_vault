@@ -7,10 +7,22 @@
 
  ## #Introduction 
 
+ ## Why do we study Algorithms?
+
+ - Its important for other branches of computer science.
+ - it plays a key role in modern technology
+ - its challenging and fun.
+
+ # ==***Perhaps the most most important principle for the good algorithm designer is to refuse to content***==
+		 - Alfred V. Aho
+	 
+*****In simple terms its about can we do it better!!!*
+
 		![[Pasted image 20220121111757.png]]
  
  ## Analysis the Algorithms
   - An Algo is a step-by-step Procedure for solving a problem in a finite amount of time.
+
    > Algo find-max(A, n)
 					   >  A- Array  A={4,4,5,2,5,2,5,6,7,} n=10
  					   >  n-size
