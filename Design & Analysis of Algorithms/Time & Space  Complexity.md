@@ -36,3 +36,6 @@
 - Flow of time Complexity
 
 	>    O(1)<O(log(N))<O(n)<O(2^n)
+
+---
+## Asymptotically Notation
