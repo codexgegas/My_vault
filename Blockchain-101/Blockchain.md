@@ -23,7 +23,7 @@ blockchain was first fully actualized in Satoshi Nakamoto's [Bitcoin Whitepaper]
 * Represents value
 * Transparency 
 * decentralize
-* due to useage of [[Cryptography]]] blockchains are very secured systems.
+* due to use age of [[Cryptography]]] blockchains are very secured systems.
 
 -------------------------------------------------
  ## Use Cases

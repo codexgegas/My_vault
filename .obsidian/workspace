@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blockchain-101/Anatomy of a Block/Blocks.md",
-            "mode": "preview",
+            "file": "Blockchain-101/Blockchain.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blockchain-101/Anatomy of a Block/Blocks.md",
+                "file": "Blockchain-101/Blockchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "6f69a6216185f09b",
   "lastOpenFiles": [
+    "Blockchain-101/Blockchain.md",
+    "Blockchain-101/Bitcoin.md",
+    "Blockchain-101/Anatomy of a Block/Chains of Blocks.md",
     "Blockchain-101/Anatomy of a Block/Blocks.md",
     "Worst, Average and Best case.md",
     "Design & Analysis of Algorithms/Introduction.md",
     "Design & Analysis of Algorithms/Time & Space  Complexity.md",
-    "Blockchain-101/Bitcoin.md",
     "Blockchain-101/Etherum.md",
     "Blockchain-101/Cryptography/Digital Sigining.md",
-    "Blockchain-101/Cryptography/Cryptography.md",
-    "Blockchain-101/Decentralization.md",
-    "Blockchain-101/Nodes and Network.md"
+    "Blockchain-101/Cryptography/Cryptography.md"
   ]
 }
