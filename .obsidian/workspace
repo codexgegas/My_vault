@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6f69a6216185f09b",
+        "id": "a9a45c8b12b528ae",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blockchain-101/CryptoCurrency.md",
+            "file": "SC-900/Azure AD.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "digital s",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blockchain-101/CryptoCurrency.md",
+                "file": "SC-900/Azure AD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6f69a6216185f09b",
+  "active": "a9a45c8b12b528ae",
   "lastOpenFiles": [
-    "Blockchain-101/CryptoCurrency.md",
-    "Blockchain-101/Anatomy of a Block/Blocks.md",
-    "Blockchain-101/Blockchain.md",
-    "Blockchain-101/Bitcoin.md",
-    "Blockchain-101/Anatomy of a Block/Chains of Blocks.md",
-    "Worst, Average and Best case.md",
-    "Design & Analysis of Algorithms/Introduction.md",
-    "Design & Analysis of Algorithms/Time & Space  Complexity.md",
-    "Blockchain-101/Etherum.md",
-    "Blockchain-101/Cryptography/Digital Sigining.md"
+    "SC-900/Azure AD.md",
+    "Design & Analysis of Algorithms/directory services and active directory.md",
+    "SC-900/Federated Services.md",
+    "SC-900/XDR.md",
+    "SC-900/Assets/XDR.png",
+    "SC-900/Security Orchestration Automated Response(SOAR).md",
+    "SC-900/Security Information and event management (SIEM).md",
+    "SC-900/Encryption.md",
+    "SC-900/Common threats.md",
+    "SC-900/Cloud Adoption Framework.md"
   ]
 }
