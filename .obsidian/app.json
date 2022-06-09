@@ -3,7 +3,7 @@
   "strictLineBreaks": true,
   "foldHeading": true,
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "byModifiedTimeReverse",
+  "fileSortOrder": "alphabetical",
   "spellcheck": true,
   "lineWrap": true,
   "rightToLeft": false,

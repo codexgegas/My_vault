@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Network/OSI Model.md",
+            "file": "Computer Network/4.OSI Model.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "digital s",
+                "query": "tag:#Data-Link-Layer",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Network/OSI Model.md",
+                "file": "Computer Network/4.OSI Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "a9a45c8b12b528ae",
   "lastOpenFiles": [
-    "Computer Network/OSI Model.md",
-    "Computer Network/Networking.md",
-    "Computer Network/Introduction.md",
+    "Computer Network/4.OSI Model.md",
+    "2022-06-09.md",
+    "Worst, Average and Best case.md",
+    "Computer Network/Framing.png",
+    "Computer Network/3.NETWORKING TERMINOLOGY.md",
+    "Computer Network/2.Networking.md",
+    "Computer Network/1.Introduction.md",
+    "Computer Network/data link layer.png",
     "Computer Network/physical.png",
-    "Pasted image 20220609192450.png",
-    "Pasted image 20220609192442.png",
-    "Computer Network/OSI.png",
-    "Computer Network/NETWORKING TERMINOLOGY.md",
-    "Computer Network/Network.png",
-    "Computer Network/Node.png"
+    "Pasted image 20220609192450.png"
   ]
 }
