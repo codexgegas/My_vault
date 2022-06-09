@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Network/4.OSI Model.md",
+            "file": "Computer Network/4.Routing Algo.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Network/4.OSI Model.md",
+                "file": "Computer Network/4.Routing Algo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "a9a45c8b12b528ae",
   "lastOpenFiles": [
-    "Computer Network/4.OSI Model.md",
-    "Computer Network/3.NETWORKING TERMINOLOGY.md",
-    "Computer Network/2.Networking.md",
-    "Computer Network/1.Introduction.md",
-    "Computer Network/Application.png",
-    "Computer Network/osirefer.png",
-    "Computer Network/presentation.png",
-    "Computer Network/session.png",
-    "Computer Network/Transport Layer.png",
-    "Worst, Average and Best case.md"
+    "Computer Network/4.Routing Algo.md",
+    "Computer Network/assets/Routing algo.png",
+    "Computer Network/assets/routing algo.png",
+    "Pasted image 20220609223253.png",
+    "Computer Network/assets/Node.png",
+    "Computer Network/assets/osirefer.png",
+    "Computer Network/assets/physical.png",
+    "Computer Network/assets/presentation.png",
+    "Computer Network/assets/session.png",
+    "Computer Network/1.Introduction.md"
   ]
 }
