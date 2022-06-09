@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SC-900/Azure AD.md",
+            "file": "Computer Network/OSI Model.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC-900/Azure AD.md",
+                "file": "Computer Network/OSI Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "a9a45c8b12b528ae",
   "lastOpenFiles": [
-    "SC-900/Azure AD.md",
-    "Design & Analysis of Algorithms/directory services and active directory.md",
-    "SC-900/Federated Services.md",
-    "SC-900/XDR.md",
-    "SC-900/Assets/XDR.png",
-    "SC-900/Security Orchestration Automated Response(SOAR).md",
-    "SC-900/Security Information and event management (SIEM).md",
-    "SC-900/Encryption.md",
-    "SC-900/Common threats.md",
-    "SC-900/Cloud Adoption Framework.md"
+    "Computer Network/OSI Model.md",
+    "Computer Network/Networking.md",
+    "Computer Network/Introduction.md",
+    "Computer Network/physical.png",
+    "Pasted image 20220609192450.png",
+    "Pasted image 20220609192442.png",
+    "Computer Network/OSI.png",
+    "Computer Network/NETWORKING TERMINOLOGY.md",
+    "Computer Network/Network.png",
+    "Computer Network/Node.png"
   ]
 }
