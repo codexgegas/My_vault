@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Network/4.Routing Algo.md",
-            "mode": "source",
+            "file": "Computer Network/1.Introduction.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#NETWORK",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -50,11 +50,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 159
+    "width": 447
   },
   "right": {
     "id": "a24305bb3cb1be46",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Network/4.Routing Algo.md",
+                "file": "Computer Network/1.Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +91,15 @@
   },
   "active": "a9a45c8b12b528ae",
   "lastOpenFiles": [
-    "Computer Network/4.Routing Algo.md",
-    "Computer Network/assets/Routing algo.png",
-    "Computer Network/assets/routing algo.png",
-    "Pasted image 20220609223253.png",
-    "Computer Network/assets/Node.png",
-    "Computer Network/assets/osirefer.png",
-    "Computer Network/assets/physical.png",
-    "Computer Network/assets/presentation.png",
-    "Computer Network/assets/session.png",
-    "Computer Network/1.Introduction.md"
+    "Blockchain-101/Anatomy of a Block/Blocks.md",
+    "water.md",
+    "[Ethash.md",
+    "Design & Analysis of Algorithms/Introduction.md",
+    "Computer Network/1.Introduction.md",
+    "Computer Network/2.Networking.md",
+    "Computer Network/3.NETWORKING TERMINOLOGY.md",
+    "Blockchain-101/Tokenizations.md",
+    "Blockchain-101/Cryptography/Digital Sigining.md",
+    "[What.md"
   ]
 }

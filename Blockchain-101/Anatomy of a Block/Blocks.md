@@ -32,3 +32,5 @@ A block stores information. There are many pieces of information included within
 [Link1]([Blockchain - Chaining Blocks (tutorialspoint.com)](https://www.tutorialspoint.com/blockchain/blockchain_chaining_blocks.htm#:~:text=A%20block%20in%20the%20chain%20may%20come%20from,creates%20a%20hash%20for%20its%20newly%20created%20block.))
 [Link2]([Block (Bitcoin Block) Definition (investopedia.com)](https://www.investopedia.com/terms/b/block-bitcoin-block.asp))
 [Video]([How does a blockchain work - Simply Explained - YouTube](https://www.youtube.com/watch?v=SSo_EIwHSd4&ab_channel=SimplyExplained))
+
+
